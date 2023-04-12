@@ -21,9 +21,4 @@ we'll get back to you.
 
 ## Keep in touch
 
-Subscribe to our [Atom](https://zentered.co/atom.xml) or
-[RSS](https://zentered.co/feed.xml) feed to receive new articles from our
-[blog](https://zentered.co/blog),
-[subscribe to our newsletter](https://www.getrevue.co/profile/zentered) to
-receive occasional updates or
-[follow us on Twitter](http://twitter.com/zenteredco).
+[our blog](https://zentered.co/blog)
