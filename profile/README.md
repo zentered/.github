@@ -10,7 +10,7 @@ Thanks for stopping by our remote office! Sit back, relax and have a ☕️.
 ## Chat
 
 You can [schedule a call](https://cal.com/zentered/15min) to have a chat
-with us or [message us on Twitter](http://twitter.com/zenteredco).
+with us.
 
 ## Feedback, Questions and Ideas
 
